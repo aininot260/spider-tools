@@ -1,0 +1,30 @@
+{
+	"name": "spider-tools",
+	"version": "0.0.2",
+	"description": "spider for private",
+	"main": "dist/source",
+	"engines": {
+		"node": ">=10"
+	},
+	"scripts": {},
+	"files": [
+		"dist/source"
+	],
+	"keywords": [
+		"spider"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/aininot260/spider-tools.git"
+	},
+	"author": "Hao Gong",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/aininot260/spider-tools/issues"
+	},
+	"homepage": "https://github.com/aininot260/spider-tools#readme",
+	"dependencies": {
+		"got": "^11.8.6"
+	},
+	"types": "dist/source"
+}
